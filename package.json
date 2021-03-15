@@ -45,5 +45,8 @@
     "vue-eslint-parser": "^7.4.1",
     "vuepress": "^1.8.0",
     "vuepress-plugin-facebook-pixel": "^1.0.0"
+  },
+  "engines" : { 
+     "node" : ">=0.12" 
   }
 }
